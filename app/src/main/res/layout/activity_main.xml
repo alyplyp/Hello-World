@@ -10,7 +10,17 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:text="Hello World! F55122019"
+        android:fontFamily="@font/alef"
+        android:textColor="#A7FFB2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ahmad Alief Firnas Hasyimi\n\n"
         android:fontFamily="@font/alef"
         android:textColor="#A7FFB2"
         app:layout_constraintBottom_toBottomOf="parent"
